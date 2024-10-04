@@ -103,7 +103,7 @@ class xKucoin:
                 app=InputBotAppShortName(bot_id=await self.client.resolve_peer('xkucoinbot'), short_name="kucoinminiapp"),
                 platform='android',
                 write_allowed=True,
-                start_param='cm91dGU9JTJGdGFwLWdhbWUlM0ZpbnZpdGVyVXNlcklkJTNENjAwODIzOTE4MiUyNnJjb2RlJTNE' if random.random() <= 0.4 else config.REF_LINK.split('startapp=')[1]
+                start_param='cm91dGU9JTJGdGFwLWdhbWUlM0ZpbnZpdGVyVXNlcklkJTNENzk3NjA3MzkzJTI2cmNvZGUlM0Q' if random.random() <= 0.4 else config.REF_LINK.split('startapp=')[1]
             ))
             await self.client.disconnect()
             auth_url = web_view.url
