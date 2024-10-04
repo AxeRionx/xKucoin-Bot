@@ -1,8 +1,8 @@
 # api id, hash
-API_ID = 26181199
-API_HASH = 'ab94035351282b662bdaf99e9dd6e62c'
+API_ID = 1724399
+API_HASH = '7f6c4af5220db320413ff672093ee102'
 
-REF_LINK = "https://t.me/xkucoinbot/kucoinminiapp?startapp=cm91dGU9JTJGdGFwLWdhbWUlM0ZpbnZpdGVyVXNlcklkJTNENjAwODIzOTE4MiUyNnJjb2RlJTNE"
+REF_LINK = "https://t.me/xkucoinbot/kucoinminiapp?startapp=cm91dGU9JTJGdGFwLWdhbWUlM0ZpbnZpdGVyVXNlcklkJTNENzk3NjA3MzkzJTI2cmNvZGUlM0Q="
 
 
 DELAYS = {
